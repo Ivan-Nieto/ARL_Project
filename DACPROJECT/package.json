@@ -19,7 +19,7 @@
     "axios": "^0.19.2",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "google-protobuf": "^3.0.0",
     "grpc": "^1.24.2",
     "html-docx-js": "^0.3.1",
